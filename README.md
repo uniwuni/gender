@@ -1,3 +1,3 @@
 # gender
 
-it/its kitten thing
+it/they kitten thing
